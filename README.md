@@ -1,4 +1,4 @@
-# Hybrid RAG System – Assignment 2
+# Hybrid RAG System
 
 This repository implements a **Hybrid Retrieval-Augmented Generation (RAG)** system using **Dense Retrieval (ChromaDB)**, **Sparse Retrieval (BM25)**, **Reciprocal Rank Fusion (RRF)**, and **Flan-T5** for answer generation.  
 It also includes a **fully automated evaluation pipeline** with mandatory and custom metrics.
